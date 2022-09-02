@@ -2,13 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Bheem Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="Coding" width="850"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimlendu-singh&label=Profile%20views&color=0e75b6&style=flat" alt="bimlendu-singh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bimlendu-singh" alt="bimlendu-singh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bheem_singhh" target="blank"><img src="https://img.shields.io/twitter/follow/bheem_singhh?logo=twitter&style=for-the-badge" alt="bheem_singhh" /></a> </p>
+
 
 - 🔭 I’m currently working on **Web Devlopment**
 
@@ -19,6 +20,8 @@
 - 📫 How to reach me **bimlendukumarsingh.bks4@gmail.com**
 
 - ⚡ Fun fact **I am Explorer!**
+
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif" height="200" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
