@@ -38,6 +38,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimlendu-singh&show_icons=true&theme=radical&layout=compact" alt="bimlendu-singh" /></p>
 
+## My Github Stats
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bimlendu-singh&show_icons=true&theme=radical" alt="bimlendu-singh" /></p>
+
+## Snake eating my contribution
+
+![snake gif](https://github.com/Bimlendu-Singh/Bimlendu-Singh/blob/output/github-contribution-grid-snake.gif)
+
 
 
