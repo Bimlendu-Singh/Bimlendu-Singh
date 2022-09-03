@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://bimlendusingh.io)
 
 <h1 align="center">Hi 👋, I'm Bheem Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="850"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimlendu-singh&label=Profile%20views&color=0e75b6&style=flat" alt="bimlendu-singh" /> </p>
