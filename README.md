@@ -2,9 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Bheem Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="850"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" >
+<img align="right" alt="Coding" width="600"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimlendu-singh&label=Profile%20views&color=0e75b6&style=flat" alt="bimlendu-singh" /> </p>
+
+<a href="https://github.com/Bimlendu-Singh/github-readme-activity-graph"><img alt="Bheem Singh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bimlendu-Singh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bimlendu-singh" alt="bimlendu-singh" /></a> </p>
 
@@ -45,6 +47,7 @@
 ## Snake eating my contribution
 
 ![snake gif](https://github.com/Bimlendu-Singh/Bimlendu-Singh/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
