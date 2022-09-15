@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://bimlendusingh.io)
 
-<h1 align="center">Hi 👋, I'm Bheem Singh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px"> I'm Bheem Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="600"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" >
 
