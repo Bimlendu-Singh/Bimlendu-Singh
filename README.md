@@ -1,6 +1,7 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://bimlendusingh.io)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px"> I'm Bheem Singh</h1>
+
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="600"  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" >
 
@@ -11,6 +12,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bimlendu-singh" alt="bimlendu-singh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bheem_singhh" target="blank"><img src="https://img.shields.io/twitter/follow/bheem_singhh?logo=twitter&style=for-the-badge" alt="bheem_singhh" /></a> </p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Save+Soil!+👋;+Let's+Make+It+Happen!;&center=true&size=30">
+  </a>
+</h1>
 
 
 - 🔭 I’m currently working on **Web Devlopment**
