@@ -29,14 +29,14 @@
 > A full-stack restaurant management system built with PHP & MySQL.
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/Bimlendu-Singh/Bimlendu-Singh/main/assets/myrestraun-preview.png" alt="MyRestraun Preview](https://github.com/Bimlendu-Singh/MyRestraun/blob/main/banner.png)" width="600"/>
+  <img src="https://github.com/Bimlendu-Singh/MyRestraun/blob/main/banner.png" alt="MyRestraun Preview"  width="600"/>
 </p>
 
 ### [Project 2 🚀](#)
 > Description of another cool project you want to feature.
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x400.png?text=Project+Preview" alt="Project 2 Preview" width="600"/>
+  <img src="https://github.com/Bimlendu-Singh/FunProjects/blob/main/racingcarSS.png" alt="Project 2 Preview" width="600"/>
 </p>
 
 ## 📊 GitHub Stats
