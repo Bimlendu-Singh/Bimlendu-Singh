@@ -25,7 +25,7 @@
 
 ## 🌟 Featured Projects
 
-### [MyRestraun 🍽️](https://devizones.com/myrestraun/)
+### [MyRestraun 🍽️](https://devizones.com/myrestro/)
 > A full-stack restaurant management system built with PHP & MySQL.
 
 <p align="center">
