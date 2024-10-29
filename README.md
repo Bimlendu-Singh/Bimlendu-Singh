@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://devizones.com/myrestro/" target="_blank"><img src="https://img.shields.io/badge/-Visit%20My%20Website-darkgreen?style=for-the-badge&logo=appveyor" alt="MyRestraun Website" /></a>
-  <a href="[https://devizones.com/myrestraun/admin](https://devizones.com/myrestro/admin/login.php)" target="_blank"><img src="https://img.shields.io/badge/-Admin%20Page-darkblue?style=for-the-badge&logo=appveyor" alt="Admin Page" /></a>
+  <a href="https://devizones.com/myrestro/admin/login.php" target="_blank"><img src="https://img.shields.io/badge/-Admin%20Page-darkblue?style=for-the-badge&logo=appveyor" alt="Admin Page" /></a>
 </p>
 
 ## 🛠️ Technologies & Tools
